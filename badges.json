@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1785650958784,
+  "updatedAt": 1785650960538,
   "definitions": [
     {
       "id": "b_msbeh1eb_i3xft",
@@ -17,5 +17,13 @@
       "createdAt": 1785650958227
     }
   ],
-  "assignments": []
+  "assignments": [
+    {
+      "userId": "777000",
+      "username": null,
+      "badgeId": "b_msbeh1eb_i3xft",
+      "assignedAt": 1785650959990,
+      "assignedBy": "podderzhkacustomtg"
+    }
+  ]
 }

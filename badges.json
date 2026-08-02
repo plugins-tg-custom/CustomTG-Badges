@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1785650953750,
+  "updatedAt": 1785650958784,
   "definitions": [
     {
       "id": "b_msbeh1eb_i3xft",
@@ -8,6 +8,13 @@
       "preset": "crown",
       "label": "Со-Основатель проекта",
       "createdAt": 1785650953043
+    },
+    {
+      "id": "b_msbeh5eb_ygpm1",
+      "kind": "preset",
+      "preset": "crown",
+      "label": "Со-Основатель проекта",
+      "createdAt": 1785650958227
     }
   ],
   "assignments": []

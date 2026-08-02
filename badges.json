@@ -1,6 +1,14 @@
 {
   "version": 1,
-  "updatedAt": 1785651084720,
-  "definitions": [],
+  "updatedAt": 1785651166053,
+  "definitions": [
+    {
+      "id": "b_msbell3e_p31p1",
+      "kind": "preset",
+      "preset": "crown",
+      "label": "Со-Основатель проекта",
+      "createdAt": 1785651165194
+    }
+  ],
   "assignments": []
 }

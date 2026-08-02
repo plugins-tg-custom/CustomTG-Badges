@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1785651166053,
+  "updatedAt": 1785651173106,
   "definitions": [
     {
       "id": "b_msbell3e_p31p1",
@@ -8,6 +8,13 @@
       "preset": "crown",
       "label": "Со-Основатель проекта",
       "createdAt": 1785651165194
+    },
+    {
+      "id": "b_msbelqoa_892jz",
+      "kind": "preset",
+      "preset": "crown",
+      "label": "Со-Основатель проекта",
+      "createdAt": 1785651172426
     }
   ],
   "assignments": []

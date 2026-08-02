@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1785651431464,
+  "updatedAt": 1785651692985,
   "definitions": [
     {
       "id": "b_msbelqoa_892jz",
@@ -10,13 +10,5 @@
       "createdAt": 1785651172426
     }
   ],
-  "assignments": [
-    {
-      "userId": "5689398972",
-      "username": "wwwwwxmsk",
-      "badgeId": "b_msbell3e_p31p1",
-      "assignedAt": 1785651174322,
-      "assignedBy": "podderzhkacustomtg"
-    }
-  ]
+  "assignments": []
 }

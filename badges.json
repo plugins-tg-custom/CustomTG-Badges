@@ -1,14 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1785650972850,
-  "definitions": [
-    {
-      "id": "b_msbeh1eb_i3xft",
-      "kind": "preset",
-      "preset": "crown",
-      "label": "Со-Основатель проекта",
-      "createdAt": 1785650953043
-    }
-  ],
+  "updatedAt": 1785651084720,
+  "definitions": [],
   "assignments": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1785651173106,
+  "updatedAt": 1785651174869,
   "definitions": [
     {
       "id": "b_msbell3e_p31p1",
@@ -17,5 +17,13 @@
       "createdAt": 1785651172426
     }
   ],
-  "assignments": []
+  "assignments": [
+    {
+      "userId": "5689398972",
+      "username": "wwwwwxmsk",
+      "badgeId": "b_msbell3e_p31p1",
+      "assignedAt": 1785651174322,
+      "assignedBy": "podderzhkacustomtg"
+    }
+  ]
 }
